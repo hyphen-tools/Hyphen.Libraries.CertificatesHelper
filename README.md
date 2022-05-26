@@ -9,7 +9,7 @@
 <h3 align="middle">
    Hyphen.Libraries.CertificatesHelper
 </h3>
-<p align="middle">Description</p>
+<p align="middle">Provides a way to check the information regarding the X509Certitificate of a certain URL</p>
 
 
 <p align="middle">
