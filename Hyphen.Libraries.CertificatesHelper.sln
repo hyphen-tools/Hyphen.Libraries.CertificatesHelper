@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hyphen.Templates.GithubPackage", "Hyphen.Templates.GithubPackage.csproj", "{DBE08AD9-54B9-4935-89E4-CE19445D2CB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hyphen.Libraries.CertificatesHelper", "Hyphen.Libraries.CertificatesHelper.csproj", "{DBE08AD9-54B9-4935-89E4-CE19445D2CB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

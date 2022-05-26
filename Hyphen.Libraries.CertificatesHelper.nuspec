@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Hyphen.Templates.GithubPackage</id>
-    <title>Hyphen.Templates.GithubPackage</title>
+    <id>Hyphen.Libraries.CertificatesHelper</id>
+    <title>Hyphen.Libraries.CertificatesHelper</title>
     <version>1.0.0</version>
     <authors>Hyphen</authors>
     <owners>makehyphen</owners>
-    <repository type="git" url="https://github.com/makehyphen/Hyphen.Templates.GithubPackage" />
+    <repository type="git" url="https://github.com/makehyphen/Hyphen.Libraries.CertificatesHelper" />
     <license type="file">LICENSE.md</license>
     <icon>icon.png</icon>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes></releaseNotes>
-    <description>Provides utility classes to handle symmetric and asymmetric encryption, hashing and encoding</description>
+    <description>Provides a way to check the information regarding the X509Certitificate of a certain URL</description>
     <copyright>Copyright ©2021 Hyphen</copyright>
     <tags>encrypt decrypt encoding decoding base64 aes rsa rijndael</tags>
     <language>en-US</language>
